@@ -1,6 +1,6 @@
 # My first React project
 
-The application is similar to Twitter, offering the user to share their thoughts on their personal page. In addition, the user can mark the entry as a favorite or like it. [DEMO](https://mnerpyctno.github.io/simpleReact/)
+The application is similar to Twitter, offering the user to share their thoughts on their personal page. In addition, the user can mark the entry as a favorite or like it.
 
 ## What I've learned
 
